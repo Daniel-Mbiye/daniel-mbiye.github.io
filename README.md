@@ -10,4 +10,3 @@ Senior Software Engineer @ Apex Real Time Solutions
 
 ### Projects
 Linkedin Sales Lead Solutions
-Gym Membership App

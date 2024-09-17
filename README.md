@@ -1,4 +1,4 @@
-# Full stack senior software engineer
+# Full Stack Senior Software Engineer
 
 ### Education
 BTech Electrical Engineering

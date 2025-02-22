@@ -1,6 +1,6 @@
 # Full Stack Senior Software Engineer
 
-#### Technical Skills: C, C++, Python, JavaScript, SQL, React, Bootstrap, Django, Flask, FastAPI, LangChain, PostgreSQL, Redis, MongoDB, Selenium, Cassandra, RabbitMQ, Celery, Kafka, AWS (DynamoDB, EC2, Lambda, SQS, S3), DigitalOcean, Heroku, Render, Git, Docker, 
+#### Technical Skills: C, C++, Python, JavaScript, SQL, React, Bootstrap, Django, Flask, FastAPI, LangChain, PostgreSQL, Redis, MongoDB, Selenium, Cassandra, RabbitMQ, Celery, Kafka, ElasticSearch, AWS (DynamoDB, EC2, Lambda, SQS, S3), DigitalOcean, Heroku, Render, Git, Docker, 
 
 ### Education
 BTech Electrical Engineering
@@ -14,7 +14,7 @@ BTech Electrical Engineering
 - Developed firmware for an IoT smart home solution
 - Developed firmware for breath analyser device
 - Designed prototype for electronic security system for cars
-- Developed Various Web Backend Systems using the Django framework
+- Developed Various Web Backend Systems using the Django framework ranging from professional services e.g. online booking systems, to in-house projects e.g. vertical search engines
 
 **Firmware Engineer @ NewElec**
 - Wrote firmware for a portable device display monitoring system for underground mining

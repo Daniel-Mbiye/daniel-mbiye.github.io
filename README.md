@@ -1,6 +1,6 @@
 # Full Stack Senior Software Engineer
 
-#### Technical Skills: C, C++, Python, JavaScript, SQL, React, Django, Flask, FastAPI, LangChain,
+#### Technical Skills: C, C++, Python, JavaScript, SQL, React, Django, Flask, FastAPI, LangChain, PostgreSQL, Redis, MongoDB, Selenium, Cassandra, RabbitMQ, Bootstrap, 
 
 ### Education
 BTech Electrical Engineering
@@ -11,9 +11,9 @@ BTech Electrical Engineering
 - Big impact project 2
 
 **Senior Software Engineer @ GNG Engineering**
-- Developed firmware for an IoT smart energy management solution
+- Developed firmware for an IoT smart home solution
+- Developed firmware for breath analyser device
 - Designed prototype for electronic security system for cars
-- Developed breath analyser device firmware for client
 - Developed Various Web Backend Systems using the Django framework
 
 **Firmware Engineer @ NewElec**

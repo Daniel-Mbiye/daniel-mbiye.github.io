@@ -1,5 +1,7 @@
 # Full Stack Senior Software Engineer
 
+#### Technical Skills: C, C++, Python, JavaScript, SQL, React, Django, Flask, FastAPI, LangChain,
+
 ### Education
 BTech Electrical Engineering
 

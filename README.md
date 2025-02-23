@@ -7,7 +7,7 @@ BTech Electrical Engineering
 
 ### Work Experience
 **Senior Software Engineer @ Apex Real Time Solutions**
-- Delivering warehouse management software solutions
+- Developing warehouse management software
 - Big impact project 2
 
 **Senior Software Engineer @ GNG Engineering**

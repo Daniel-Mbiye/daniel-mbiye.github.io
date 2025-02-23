@@ -1,6 +1,6 @@
 # Full Stack Senior Software Engineer
 
-#### Technical Skills: C, C++, Python, JavaScript, SQL, React, Bootstrap, Django, Flask, FastAPI, LangChain, PostgreSQL, Redis, MongoDB, Selenium, Cassandra, RabbitMQ, Celery, Kafka, ElasticSearch, AWS (DynamoDB, EC2, Lambda, SQS, S3), DigitalOcean, Heroku, Render, Git, Docker, 
+#### Technical Skills: C, C++, Python, JavaScript, SQL, React, Bootstrap, CSS3, Django, Flask, FastAPI, LangChain, PostgreSQL, Redis, MongoDB, Selenium, Cassandra, RabbitMQ, Celery, Kafka, ElasticSearch, AWS (DynamoDB, EC2, Lambda, SQS, S3), DigitalOcean, Heroku, Render.com, Git, Docker, Linux, Vim, API Design, 
 
 ### Education
 BTech Electrical Engineering

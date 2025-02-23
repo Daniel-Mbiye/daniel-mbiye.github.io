@@ -30,7 +30,9 @@ BTech Electrical Engineering
 - Wrote firmware for for telephone buffer device for Telephone Management System
 - Designed the hardware schematic and PCB for 3G cellular module adapter for a line of telecom routers
 
-### Projects
-Linkedin Sales Lead Solutions
-LLM Based Voice Agent
+## Projects
+### Linkedin Sales Lead Solutions
+An automated service for Sales rep
+### LLM Based Voice Agent
+LLM call center agent
 

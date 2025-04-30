@@ -1,13 +1,13 @@
 # Full Stack Senior Software Engineer
 
 #### Technical Skills: 
-Languages: C, C++, Python, JavaScript, SQL, 
-Embedded Systems:
-Web Frameworks: React, Bootstrap, CSS3, Django, Flask, FastAPI, LangChain, 
-Databases: PostgreSQL, Redis, MongoDB, Selenium, Cassandra, 
-Cloud technologies: RabbitMQ, Celery, Kafka, ElasticSearch,
-Web Hosting: DigitalOcean, Heroku, Render.com, 
-Git, Docker, Linux, Vim, API Design, 
+- Languages: C, C++, Python, JavaScript, SQL, 
+- Embedded Systems:
+- Web Frameworks: React, Bootstrap, CSS3, Django, Flask, FastAPI, LangChain, 
+- Databases: PostgreSQL, Redis, MongoDB, Selenium, Cassandra, 
+- Cloud technologies: RabbitMQ, Celery, Kafka, ElasticSearch,
+- Web Hosting: DigitalOcean, Heroku, Render.com, 
+- Git, Docker, Linux, Vim, API Design, 
 
 ### Education
 BTech Electrical Engineering
@@ -15,7 +15,6 @@ BTech Electrical Engineering
 ### Work Experience
 **Senior Software Engineer @ Apex Real Time Solutions**
 - Developing warehouse management software
-- Big impact project 2
 
 **Senior Software Engineer @ GNG Engineering**
 - Developed firmware for an IoT smart home solution

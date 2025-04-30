@@ -1,6 +1,13 @@
 # Full Stack Senior Software Engineer
 
-#### Technical Skills: C, C++, Python, JavaScript, SQL, React, Bootstrap, CSS3, Django, Flask, FastAPI, LangChain, PostgreSQL, Redis, MongoDB, Selenium, Cassandra, RabbitMQ, Celery, Kafka, ElasticSearch, AWS (DynamoDB, EC2, Lambda, SQS, S3), DigitalOcean, Heroku, Render.com, Git, Docker, Linux, Vim, API Design, 
+#### Technical Skills: 
+Languages: C, C++, Python, JavaScript, SQL, 
+Embedded Systems:
+Web Frameworks: React, Bootstrap, CSS3, Django, Flask, FastAPI, LangChain, 
+Databases: PostgreSQL, Redis, MongoDB, Selenium, Cassandra, 
+Cloud technologies: RabbitMQ, Celery, Kafka, ElasticSearch,
+Web Hosting: DigitalOcean, Heroku, Render.com, 
+Git, Docker, Linux, Vim, API Design, 
 
 ### Education
 BTech Electrical Engineering
@@ -31,8 +38,8 @@ BTech Electrical Engineering
 - Designed the hardware schematic and PCB for 3G cellular module adapter for a line of telecom routers
 
 ## Projects
-### Linkedin Sales Lead Solutions
-An automated service for Sales rep
-### LLM Based Voice Agent
-LLM call center agent
+### Project 1
+To be updated
+### Project 2
+To be updated
 
